@@ -1,6 +1,6 @@
 # omaterm
 
-Make the [Tern](https://stencil.so) terminal match the rest of your [Omarchy](https://omarchy.org) desktop. It uses your active theme's colors for the terminal background, foreground, window chrome, all 16 ANSI colors, and Tern's UI and syntax colors, and it follows every `omarchy theme set` automatically.
+Make the [Tern](https://stencil.so/tern) terminal match the rest of your [Omarchy](https://omarchy.org) desktop. It uses your active theme's colors for the terminal background, foreground, window chrome, all 16 ANSI colors, and Tern's UI and syntax colors, and it follows every `omarchy theme set` automatically.
 
 ## Install
 
